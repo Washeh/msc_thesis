@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# saves from rl_dnc folder
+/rl_dnc/saves/*
